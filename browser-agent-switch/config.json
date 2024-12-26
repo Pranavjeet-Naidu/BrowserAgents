@@ -1,0 +1,6 @@
+{
+    "agent": "puppeteer-stealth", 
+    "url": "https://www.amazon.in/",
+    "screenshotPath": "/home/grass/projects/BrowserAgents/browser-agent-switch/screenshots/screenshot.png"
+  }
+  
